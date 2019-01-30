@@ -5,9 +5,7 @@
 h2{
     font-family: Major Mono Display;
 }
-body{
-    margin-left: 100vh;
-}
+
 .rightAlign{
     text-align: right;
     cursor: text;
