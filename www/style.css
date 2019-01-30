@@ -1,0 +1,29 @@
+body{
+    margin: 0; padding: 0;
+    width: 1vw;
+}
+
+ul {
+    margin: 0;padding: 0;
+    background: #000;
+    list-style: none;
+}
+ul li {
+    float: right;
+    position: relative;
+}
+ul li #home{
+    float: left;
+}
+ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 5px 10px;
+}
+ul li ul{
+    display: none;
+}
+p{
+    clear: both;
+}
